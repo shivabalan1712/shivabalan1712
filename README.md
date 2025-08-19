@@ -10,7 +10,7 @@
 - ☁️ Skilled in **AWS, Docker, Kubernetes, Git, Jenkins, Linux, and Terraform**  
 - 🛠️ Actively applying **Java CompletableFuture & Parallel Streams** to optimize ETL pipelines  
 - 💬 Ask me about **DevOps, Cloud Platforms, Performance Engineering, and Java Multithreading**  
-- 📫 Reach me at **your-email@gmail.com**  
+- 📫 Reach me at **shivabalan2002@gmail.com**  
 - ⚡ Fun fact: I love automating repetitive tasks so I can enjoy ☕ and debugging more 😆  
 
 ---
