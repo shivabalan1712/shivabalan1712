@@ -9,7 +9,7 @@
 - 🌱 I’m exploring **Java Multithreading, CompletableFuture, and Spring Boot**
 - 👯 I’m looking to collaborate on **AI/ML, Data Analytics, and Cloud-based projects**
 - 💬 Ask me about **Java, Python, Machine Learning, Cloud (AWS, Azure), SQL**
-- 📫 Reach me at **your-email@gmail.com**
+- 📫 Reach me at **shivabalan2002@gmail.com**
 - ⚡ Fun fact: I debug faster when coffee ☕ is near 😆
 
 ---
