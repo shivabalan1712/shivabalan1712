@@ -1,4 +1,4 @@
-![MasterHead](https://simplecoding.dev/assets/devops.gif)
+![MasterHead](https://appinventiv.com/wp-content/uploads/2024/05/hh.gif)
 <h1 align="center">Hi 👋, I'm Shiva Balan K</h1>
 <h3 align="center">DevOps Engineer at Platform 3 Solutions | Cloud, Automation & Performance Optimization</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -47,6 +47,11 @@
       </a>
     </td>
     <td align="center" width="100">
+      <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/><br> Azure
+      </a>
+    </td>
+    <td align="center" width="100">
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/><br> Docker
       </a>
@@ -66,6 +71,8 @@
         <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/><br> Terraform
       </a>
     </td>
+    </tr>
+  <tr>
     <td align="center" width="100">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br> Git
@@ -74,6 +81,11 @@
     <td align="center" width="100">
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br> Linux
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/><br> Spring Boot
       </a>
     </td>
     <td align="center" width="100">
@@ -88,3 +100,4 @@
     </td>
   </tr>
 </table>
+
