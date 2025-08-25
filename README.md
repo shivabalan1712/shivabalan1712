@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on **DevOps & Cloud Automation Projects** at **Platform 3 Solutions**  
 - 🚀 Exploring **CI/CD pipelines, Containerization, and Monitoring tools**  
 - ☁️ Skilled in **AWS, Docker, Kubernetes, Git, Jenkins, Linux, and Terraform**  
-- 🛠️ Actively applying **Java CompletableFuture & Parallel Streams** to optimize ETL pipelines  
-- 💬 Ask me about **DevOps, Cloud Platforms, Performance Engineering, and Java Multithreading**  
+- 🛠️ Actively applying **Java Spring Boot & Parallel Streams** to optimize ETL pipelines  
+- 💬 Ask me about **DevOps, Cloud Platforms, Performance Engineering, and Java**  
 - 📫 Reach me at **shivabalan2002@gmail.com**  
 - ⚡ Fun fact: I love automating repetitive tasks so I can enjoy ☕ and debugging more 😆  
 
